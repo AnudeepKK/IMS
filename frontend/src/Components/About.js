@@ -9,7 +9,8 @@ const About = () =>{
       </div>
       <div className="col-md-8 mx-auto">
         <p className="lead">
-          <b style={{ fontSize: "20px" }}>Inventory management is the process of efficiently overseeing the constant flow of units into and out of an existing inventory. This includes controlling inventory levels, ordering new products, and organizing existing inventory so that it can be accessed quickly and easily. Effective inventory management helps businesses keep their products stocked and ready for sale, while minimizing waste and reducing costs.</b>
+          <b style={{ fontSize: "20px" }}>In today's ever-evolving business landscape, students are taking on innovative projects to help small businesses optimize their operations. Our team of student developers has built a cutting-edge web platform using React, Axios, Mongoose, Express, CORS, and Nodemon to create an efficient inventory management solution. Using a MongoDB database, our platform enables small businesses to manage their inventory in real-time, ensuring timely and accurate decision-making. With our web platform, small business owners can keep track of inventory levels, monitor sales trends, and quickly make informed decisions that can have a positive impact on their bottom line. Our team is committed to using our skills and expertise to create a meaningful and effective solution that meets the needs of small businesses. We are proud to have built a powerful inventory management platform that can help businesses thrive in today's competitive market.
+</b>
         </p>
         <p className="lead">
           <b style={{ fontSize: "20px" }}>Our inventory management system provides a centralized platform for managing your inventory. From here, you can track your inventory levels, manage your suppliers, and analyze your sales data to make informed business decisions. Use the links below to navigate to the different areas of our system:</b>
