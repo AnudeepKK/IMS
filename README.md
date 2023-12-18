@@ -5,7 +5,7 @@ Inventory management system for item with crud operations
 
 This is a simple Inventory Management System built using React and Express.js with MongoDB as the database. It allows you to perform basic CRUD (Create, Read, Update, Delete) operations on inventory items.
 
-## Prerequisites
+## Prerequisites 
 
 Before running this application, make sure you have the following installed:
 
@@ -69,9 +69,11 @@ Before running this application, make sure you have the following installed:
 This application uses MongoDB as the database. Make sure you have MongoDB installed and running. The database connection is established in `server.js`.
 
 ## Credits
+
 - 👤 [Anudeep KK](https://github.com/AnudeepKK)
 - 👤 [Nishanth Bhat](https://github.com/BhatNishanthGanesh)
 - 👤 [ChethanPai](https://github.com/CheetahCodes21)
+
 ---
 
 Enjoy managing your inventory with this simple application! If you have any questions or need further assistance, feel free to reach out.
